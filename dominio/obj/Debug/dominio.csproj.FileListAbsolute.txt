@@ -1,0 +1,12 @@
+D:\Curso De Maxi Nivel2 Vs\ejemplos-ado-net\dominio\bin\Debug\dominio.dll
+D:\Curso De Maxi Nivel2 Vs\ejemplos-ado-net\dominio\bin\Debug\dominio.pdb
+D:\Curso De Maxi Nivel2 Vs\ejemplos-ado-net\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\Curso De Maxi Nivel2 Vs\ejemplos-ado-net\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\Curso De Maxi Nivel2 Vs\ejemplos-ado-net\dominio\obj\Debug\dominio.dll
+D:\Curso De Maxi Nivel2 Vs\ejemplos-ado-net\dominio\obj\Debug\dominio.pdb
+D:\Proyectos Personales Santiago Gimenez\Pokemones\dominio\bin\Debug\dominio.dll
+D:\Proyectos Personales Santiago Gimenez\Pokemones\dominio\bin\Debug\dominio.pdb
+D:\Proyectos Personales Santiago Gimenez\Pokemones\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\Proyectos Personales Santiago Gimenez\Pokemones\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\Proyectos Personales Santiago Gimenez\Pokemones\dominio\obj\Debug\dominio.dll
+D:\Proyectos Personales Santiago Gimenez\Pokemones\dominio\obj\Debug\dominio.pdb

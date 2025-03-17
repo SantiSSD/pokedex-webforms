@@ -90,11 +90,11 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Proyectos Personales Santiago Gimenez\Pokemones\dominio\dominio.csproj">
+    <ProjectReference Include="..\dominio\dominio.csproj">
       <Project>{29d629b1-6caa-48cf-8797-05a6738bea98}</Project>
       <Name>dominio</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\Proyectos Personales Santiago Gimenez\Pokemones\negocio\negocio.csproj">
+    <ProjectReference Include="..\negocio\negocio.csproj">
       <Project>{1e8771fb-0ac9-47ea-908a-a033d270e44f}</Project>
       <Name>negocio</Name>
     </ProjectReference>

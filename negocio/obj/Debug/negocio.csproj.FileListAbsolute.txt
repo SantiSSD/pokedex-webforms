@@ -1,0 +1,18 @@
+D:\Curso De Maxi Nivel2 Vs\ejemplos-ado-net\negocio\bin\Debug\negocio.dll
+D:\Curso De Maxi Nivel2 Vs\ejemplos-ado-net\negocio\bin\Debug\negocio.pdb
+D:\Curso De Maxi Nivel2 Vs\ejemplos-ado-net\negocio\bin\Debug\dominio.dll
+D:\Curso De Maxi Nivel2 Vs\ejemplos-ado-net\negocio\bin\Debug\dominio.pdb
+D:\Curso De Maxi Nivel2 Vs\ejemplos-ado-net\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+D:\Curso De Maxi Nivel2 Vs\ejemplos-ado-net\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+D:\Curso De Maxi Nivel2 Vs\ejemplos-ado-net\negocio\obj\Debug\negocio.csproj.Up2Date
+D:\Curso De Maxi Nivel2 Vs\ejemplos-ado-net\negocio\obj\Debug\negocio.dll
+D:\Curso De Maxi Nivel2 Vs\ejemplos-ado-net\negocio\obj\Debug\negocio.pdb
+D:\Proyectos Personales Santiago Gimenez\Pokemones\negocio\bin\Debug\negocio.dll
+D:\Proyectos Personales Santiago Gimenez\Pokemones\negocio\bin\Debug\negocio.pdb
+D:\Proyectos Personales Santiago Gimenez\Pokemones\negocio\bin\Debug\dominio.dll
+D:\Proyectos Personales Santiago Gimenez\Pokemones\negocio\bin\Debug\dominio.pdb
+D:\Proyectos Personales Santiago Gimenez\Pokemones\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+D:\Proyectos Personales Santiago Gimenez\Pokemones\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+D:\Proyectos Personales Santiago Gimenez\Pokemones\negocio\obj\Debug\negocio.csproj.Up2Date
+D:\Proyectos Personales Santiago Gimenez\Pokemones\negocio\obj\Debug\negocio.dll
+D:\Proyectos Personales Santiago Gimenez\Pokemones\negocio\obj\Debug\negocio.pdb
